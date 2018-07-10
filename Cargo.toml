@@ -7,3 +7,4 @@ authors = ["Robby Madruga <robbymadruga@gmail.com>"]
 
 [build-dependencies]
 bindgen = "0.26.3"
+cmake = "0.1.31"
